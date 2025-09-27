@@ -172,6 +172,6 @@ PATCH /api/v1/borrow/:borrowId      # Update borrow status (return book)
 - **SEO**: Better search engine optimization
 
 ### Role of Group Member
-- **Rounak**: UI Design
-- **Monir**: Frontend 
-- **Monir**: Backend, Database and overall  
+- **Rounak Jahan**: UI Design
+- **Maniruzzaman Mashum**: Frontend 
+- **Rakibul Hasan**: Backend, Database and overall development
